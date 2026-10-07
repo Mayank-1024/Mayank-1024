@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="t d">
+  <title id="t">Mayank Bhadrasen</title>
+  <desc id="d">Full-stack developer and AI automation engineer. Co-founder of Qixazow.</desc>
+  <defs>
+    <radialGradient id="glowA" cx="0.12" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#6e82aa" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#6e82aa" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.9" cy="1" r="0.6">
+      <stop offset="0" stop-color="#e2b867" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#e2b867" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#e4e6ec" stroke-opacity="0.05"/>
+    </pattern>
+    <style>
+      .name { font: 700 64px "Space Grotesk", "Segoe UI", "Helvetica Neue", Arial, sans-serif; fill: #eeece8; letter-spacing: -2px; }
+      .role { font: 500 24px "Space Grotesk", "Segoe UI", "Helvetica Neue", Arial, sans-serif; fill: #cfced0; }
+      .gold { fill: #e2b867; }
+      .mono { font: 500 14px "JetBrains Mono", "SFMono-Regular", Menlo, Consolas, monospace; fill: #9b9ca3; letter-spacing: 2px; }
+      .tag { font: 500 13px "JetBrains Mono", "SFMono-Regular", Menlo, Consolas, monospace; letter-spacing: 1px; }
+      .block { fill: #15171d; stroke: #e2b867; stroke-opacity: 0.45; stroke-width: 1.5; }
+      .face { fill: none; stroke: #e2b867; stroke-opacity: 0.25; }
+      .link { stroke: #e2b867; stroke-opacity: 0.35; stroke-width: 1.5; }
+      .lit { animation: lit 4.2s ease-in-out infinite; }
+      @keyframes lit { 0%, 100% { stroke-opacity: 0.45; fill: #15171d; } 8% { stroke-opacity: 1; fill: #2a2416; } 22% { stroke-opacity: 0.45; fill: #15171d; } }
+      .pkt { animation: run 4.2s linear infinite; }
+      @keyframes run { from { transform: translateX(0); } to { transform: translateX(336px); } }
+      @media (prefers-reduced-motion: reduce) { .lit, .pkt { animation: none; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" rx="20" fill="#0b0c0f"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#glowA)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#glowB)"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="19.5" fill="none" stroke="#e4e6ec" stroke-opacity="0.1"/>
+
+  <text x="64" y="92" class="mono">BLOCK #000 · GENESIS</text>
+  <text x="62" y="170" class="name">Mayank Bhadrasen</text>
+  <text x="64" y="216" class="role">Full-stack developer &amp; <tspan class="gold">AI automation</tspan> engineer</text>
+  <text x="64" y="264" class="tag"><tspan class="gold">Co-founder @ Qixazow</tspan><tspan fill="#60636c">   /   </tspan><tspan fill="#9b9ca3">M.S. Information Systems @ Northeastern</tspan></text>
+
+  <!-- A short chain of blocks; a packet runs along it and each block lights as it passes. -->
+  <g transform="translate(780 120)">
+    <line x1="56" y1="56" x2="336" y2="56" class="link"/>
+    <g>
+      <rect x="0" y="12" width="56" height="56" rx="8" class="block lit" style="animation-delay:0s"/>
+      <rect x="112" y="12" width="56" height="56" rx="8" class="block lit" style="animation-delay:1.05s"/>
+      <rect x="224" y="12" width="56" height="56" rx="8" class="block lit" style="animation-delay:2.1s"/>
+      <rect x="336" y="12" width="56" height="56" rx="8" class="block lit" style="animation-delay:3.15s"/>
+      <path d="M0 20 L10 6 H66 L56 20 M56 68 L66 54 V6" class="face"/>
+      <path d="M112 20 L122 6 H178 L168 20 M168 68 L178 54 V6" class="face"/>
+      <path d="M224 20 L234 6 H290 L280 20 M280 68 L290 54 V6" class="face"/>
+      <path d="M336 20 L346 6 H402 L392 20 M392 68 L402 54 V6" class="face"/>
+    </g>
+    <text x="14" y="42" class="tag gold">#00</text>
+    <text x="126" y="42" class="tag" fill="#cfced0">#01</text>
+    <text x="238" y="42" class="tag" fill="#cfced0">#02</text>
+    <text x="350" y="42" class="tag" fill="#cfced0">#03</text>
+    <circle cx="28" cy="56" r="3.5" fill="#f0d49c" class="pkt"/>
+  </g>
+</svg>
