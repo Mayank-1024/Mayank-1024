@@ -24,7 +24,10 @@ I'm an engineer with nearly 4 years of experience in API integration, workflow o
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [**Portfolio**](https://github.com/Mayank-1024/Portfolio) | My site: a 3D block-chain hero and self-drawing scenes for each role. [Visit](https://mayankbhadrasen.com) | Next.js · Three.js · GSAP |
+| [**Applications made easy**](https://github.com/Mayank-1024/Applications-Made-Easy) | n8n workflow that collects new jobs every 3 days from 13 company career boards plus Remotive, RemoteOK and Jobicy, and appends only new ones to Google Sheets. | n8n · JavaScript · Google Sheets |
+| [**One Pipe**](https://github.com/Mayank-1024/One-Pipe) | n8n pipeline that maps Hugging Face datasets and RSS feeds into one 16-column schema, runs quality checks and saves a clean CSV and report. | n8n · JavaScript · Hugging Face |
+| [**AI Marketing Ad Review**](https://github.com/Mayank-1024/AI-Marketing-Ad-Review) | n8n workflow where Claude reviews AI ad copy (approve, review or block) and routes it to HubSpot and Slack, with a rule-based fallback. | n8n · Claude · HubSpot · Slack |
+| [**Portfolio**](https://github.com/Mayank-1024/Portfolio) | My site: a 3D block-chain hero and self-drawing scenes for each role. [Visit](https://mayankbhadrasen.com) | HTML · CSS · Three.js · GSAP |
 | [**Uniswap V2 Interface**](https://github.com/Mayank-1024/UniswapV2) | Swap and liquidity UI with live reserve analytics and x·y=k curve charts. [Live demo](https://mayankuniswapv2-ui.vercel.app/) | TypeScript · ethers / viem · Chart.js |
 | [**NexTap**](https://github.com/Mayank-1024/NexTap-NFC-App) | Wallet onboarding and transaction approval with NFC cards and QR login, tested on real devices. | React · TypeScript · Redux |
 | [**GameBox**](https://github.com/Mayank-1024/GameBox) | JavaFX suite of memory and reaction games for Alzheimer patients, built on core data structures. | Java · JavaFX |
@@ -54,4 +57,4 @@ I'm an engineer with nearly 4 years of experience in API integration, workflow o
   <img src="https://img.shields.io/badge/Webhooks-integrations-e2b867?style=flat-square&labelColor=0b0c0f" alt="Webhooks" />
 </p>
 
-<sub>Published: <i>"Safeguarding Digital Assets: Harnessing the Power of Artificial Intelligence for Enhanced Data Protection"</i>, IJISRT Vol. 8 Issue 12, Dec 2023.</sub>
+<sub>Published: <i>"Safeguarding Digital Assets: Harnessing the Power of Artificial Intelligence for Enhanced Data Protection"</i>, International Journal of Innovative Science and Research Technology (IJISRT), Vol. 8 Issue 12, Dec 2023.</sub>
