@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="t d">
   <title id="t">Mayank Bhadrasen</title>
-  <desc id="d">Full-stack developer and AI automation engineer. Co-founder of Qixazow.</desc>
+  <desc id="d">Full-stack developer and AI automation engineer. n8n Verified Creator.</desc>
   <defs>
     <radialGradient id="glowA" cx="0.12" cy="0.1" r="0.7">
       <stop offset="0" stop-color="#6e82aa" stop-opacity="0.22"/>
@@ -39,7 +39,7 @@
   <text x="64" y="92" class="mono">BLOCK #000 · GENESIS</text>
   <text x="62" y="170" class="name">Mayank Bhadrasen</text>
   <text x="64" y="216" class="role">Full-stack developer &amp; <tspan class="gold">AI automation</tspan> engineer</text>
-  <text x="64" y="264" class="tag"><tspan class="gold">Co-founder @ Qixazow</tspan><tspan fill="#60636c">   /   </tspan><tspan fill="#9b9ca3">M.S. Information Systems @ Northeastern</tspan></text>
+  <text x="64" y="264" class="tag"><tspan class="gold">n8n Verified Creator</tspan><tspan fill="#60636c">   /   </tspan><tspan fill="#9b9ca3">M.S. Information Systems @ Northeastern</tspan></text>
 
   <!-- A short chain of blocks; a packet runs along it and each block lights as it passes. -->
   <g transform="translate(780 120)">

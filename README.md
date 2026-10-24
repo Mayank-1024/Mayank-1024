@@ -1,5 +1,5 @@
 <a href="https://mayankbhadrasen.com">
-  <img src="./assets/banner.svg" width="100%" alt="Mayank Bhadrasen, full-stack developer and AI automation engineer. Co-founder of Qixazow, M.S. Information Systems at Northeastern." />
+  <img src="./assets/banner.svg" width="100%" alt="Mayank Bhadrasen, full-stack developer and AI automation engineer. M.S. Information Systems at Northeastern." />
 </a>
 
 <p align="center">
@@ -15,7 +15,6 @@ I build the product, and the automations behind it.
 
 I'm an engineer with nearly 4 years of experience in API integration, workflow orchestration and customer-facing technical delivery: React and Next.js products, secure integrations (OAuth 2.0, JWT, REST, webhooks) and the workflows that connect them. I run self-hosted n8n in Docker and build agentic automations that connect LLMs, APIs and business systems.
 
-- **Co-founder of [Qixazow](https://qixazow.com)**, an AI publication and consultancy focused on n8n, Claude and bringing AI into real businesses.
 - **Finishing an M.S. in Information Systems** at Northeastern University, Boston (Dec 2026), focused on AI automation and agentic workflows.
 - **Previously Frontend Lead at VeraAI**, where I took an AI interior-design product from a local Next.js codebase to a containerised, hosted deployment.
 - **Open to** full-stack and AI automation roles.
@@ -37,7 +36,6 @@ I'm an engineer with nearly 4 years of experience in API integration, workflow o
 
 | Role | Company | When |
 | --- | --- | --- |
-| Co-founder | [Qixazow](https://qixazow.com) | 2026 - now |
 | Frontend Lead (promoted from SDE Intern) | VeraAI Technologies, St. Petersburg FL (remote) | Jul - Dec 2025 |
 | Assistant Manager, Front-End Development | AESS Solutions, Bhopal | Nov 2022 - Aug 2024 |
 | Associate Software Engineer | Appright Software Solutions, Bangalore | Jul 2021 - Nov 2022 |
